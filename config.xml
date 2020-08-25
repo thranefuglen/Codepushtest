@@ -19,6 +19,7 @@
     <platform name="android">
      <preference name="CodePushDeploymentKey" value="jM_eGlG9gFDEqehh-RNlhq4xpbrQWH2aRr-pQ" />
         <allow-intent href="market:*" />
+         <preference name="APP_SECRET" value="877eef54-d209-4058-82e0-b9acc9c89042" />
     </platform>
     <platform name="ios">
      

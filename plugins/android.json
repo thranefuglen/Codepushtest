@@ -12,6 +12,12 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "dk.thranetest.cordovacodepushtest"
+    },
+    "cordova-plugin-appcenter-analytics": {
+      "PACKAGE_NAME": "dk.thranetest.cordovacodepushtest"
+    },
+    "cordova-plugin-appcenter-crashes": {
+      "PACKAGE_NAME": "dk.thranetest.cordovacodepushtest"
     }
   },
   "dependent_plugins": {
@@ -31,6 +37,9 @@
       "PACKAGE_NAME": "dk.thranetest.cordovacodepushtest"
     },
     "cordova-plugin-zip": {
+      "PACKAGE_NAME": "dk.thranetest.cordovacodepushtest"
+    },
+    "cordova-plugin-appcenter-shared": {
       "PACKAGE_NAME": "dk.thranetest.cordovacodepushtest"
     }
   }

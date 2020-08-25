@@ -26,13 +26,18 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-code-push": {},
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-appcenter-analytics": {},
+      "cordova-plugin-appcenter-crashes": {}
     },
     "platforms": [
       "android"
     ]
   },
   "devDependencies": {
+    "cordova-plugin-appcenter-analytics": "^0.5.1",
+    "cordova-plugin-appcenter-crashes": "^0.5.1",
+    "cordova-plugin-appcenter-shared": "^0.5.1",
     "cordova-plugin-whitelist": "^1.3.4"
   }
 }
